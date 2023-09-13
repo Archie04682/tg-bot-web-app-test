@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/tg-bot-web-app-test/static/css/main.073c9b0a.css",
-    "main.js": "/tg-bot-web-app-test/static/js/main.0cf98643.js",
+    "main.css": "/tg-bot-web-app-test/static/css/main.31d6cfe0.css",
+    "main.js": "/tg-bot-web-app-test/static/js/main.84e14a05.js",
     "static/js/787.c8e09f0b.chunk.js": "/tg-bot-web-app-test/static/js/787.c8e09f0b.chunk.js",
-    "static/media/logo.svg": "/tg-bot-web-app-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/tg-bot-web-app-test/index.html",
-    "main.073c9b0a.css.map": "/tg-bot-web-app-test/static/css/main.073c9b0a.css.map",
-    "main.0cf98643.js.map": "/tg-bot-web-app-test/static/js/main.0cf98643.js.map",
+    "main.84e14a05.js.map": "/tg-bot-web-app-test/static/js/main.84e14a05.js.map",
     "787.c8e09f0b.chunk.js.map": "/tg-bot-web-app-test/static/js/787.c8e09f0b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.0cf98643.js"
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.84e14a05.js"
   ]
 }
